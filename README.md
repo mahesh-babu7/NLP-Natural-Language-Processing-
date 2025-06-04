@@ -1,4 +1,4 @@
-# 🧠 NLP Sentiment Analysis App
+# 🧠 NLP- Natural Language Processing
 
 This is a Natural Language Processing (NLP) project that performs sentiment analysis on customer reviews. It includes text preprocessing, model training using machine learning, and a user-friendly UI built with Streamlit.
 
